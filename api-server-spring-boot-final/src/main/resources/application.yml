@@ -1,0 +1,21 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: demo
+  web:
+    resources:
+      static-locations: classpath:/
+  servlet:
+    multipart:
+      maxFileSize: 10MB
+      maxRequestSize: 20MB
+
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://rc-1.c7zbw7hohty6.ap-northeast-2.rds.amazonaws.com/mango_plate_dev?autoReconnect=true # 변경해주세요
+    username: lovissa  # 변경해주세요
+    password: 12345678 # 변경해주세요
+    driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
+    # driver-class-name: com.mysql.jdbc.Driver # mysql 5버전
