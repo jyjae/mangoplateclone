@@ -8,16 +8,27 @@
 
 * 기간: 2022/05/20 ~ 2022/06/03
 * 팀구성: Server 개발자 2명, ios 개발자 2명
+* 구현파트:
+  * 웹 서버 구축, SSL 적용, ERD 설계
+  * 식당 상세 화면 조회 API
+  * 리뷰 및 댓글 관련 API
+  * 검색 API
+  * 사용자 위치 기반 할인 식당 조회 API
+  * 일반 로그인, 회원가입, 소셜 로그인 API
+  * 식당 할인권 구매 API
+  * 팔로우, 언팔로우 API
+  * 팔로잉, 홀릭 소식 조회 API
+  * 오늘의 리뷰 조회 API
 
 ****
 
 ## 📚 기술 스택
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-#009639?style=for-the-badge&logo=gradle&logoColor=white">
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ****
 
