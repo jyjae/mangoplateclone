@@ -1,4 +1,4 @@
-# mango plate clone
+# 📚 mango plate clone
 
 망고플레이트 앱 클론 프로젝트
 
@@ -22,7 +22,7 @@
 
 ****
 
-## 📚 기술 스택
+## 1. 기술 스택
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -60,9 +60,10 @@
 
 
 
-
-
 ****
+
+
+
 
 # 2022-05-21 진행상황
 + 기획서 작성
