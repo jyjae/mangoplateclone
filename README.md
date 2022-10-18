@@ -1,8 +1,15 @@
 # mango plate clone
-- 망고플레이트 앱 클론 프로젝트
+
+망고플레이트 앱 클론 프로젝트
 
 지역마다의 맛집을 추천해주고 나만의 맛집을 설정할 수 있는 어플입니다.
+
 식당마다 리뷰를 작성할 수 있으며, 해당 리뷰의 좋아요 수 등 점수를 매겨 오늘의 리뷰를 선정합니다.
+
+* 기간: 2022/05/20 ~ 2022/06/03
+* 팀구성: Server 개발자 2명, ios 개발자 2명
+
+****
 
 ## 📚 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -12,22 +19,27 @@
 <img src="https://img.shields.io/badge/nginx-#009639?style=for-the-badge&logo=gradle&logoColor=white">
 
 
-## 1.3. 기술 스택
-* **JAVA**
-
-* **Spring Framework**
-
-* **Mysql**
-
-* **Nginx**
-
-* **AWS**
-
 ****
 
-# 2. 화면구성 및 기능
+## 2. 화면구성 및 기능
 
 ![Untitled (1)](https://user-images.githubusercontent.com/52684942/173329397-a0bf7619-8acd-41ce-8114-136797347fc1.png)
+
+
+****
+## 3. ERD 설계
+
+![image](https://user-images.githubusercontent.com/52684942/196426315-d0c4b26a-d9d7-46f4-b757-ff19aecc969c.png)
+
+### [자세히 보기](https://www.erdcloud.com/d/7j3ZYByztg6JZDkBo)
+
+
+****
+## 4. API 명세서
+
+### [명세서 보기](https://docs.google.com/spreadsheets/d/1xaY34q7PerXMhUJTKMSedBfxv3fYoQMTurVvsMZGM4I/edit#gid=1034153842)
+
+
 
 
 
