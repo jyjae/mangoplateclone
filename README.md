@@ -56,7 +56,13 @@
 
 
 
-[명세서 보기](https://docs.google.com/spreadsheets/d/1xaY34q7PerXMhUJTKMSedBfxv3fYoQMTurVvsMZGM4I/edit#gid=1034153842)
+[명세서 보기](https://docs.google.com/spreadsheets/d/1ewzMH6s3HMPrrWMjNtTdttcPZHKkEmNv3ri_ebc7bEk/edit?usp=sharing)
+
+
+
+****
+
+## 5. 어려웠던 점
 
 
 
