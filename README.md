@@ -1,31 +1,16 @@
 # mango plate clone
-======================
-# 1. 개요
-## 1.1. 주제
-망고플레이트 앱 클론 프로젝트
+- 망고플레이트 앱 클론 프로젝트
 
-## 1.2. 담당 개발 범위
-*  **웹 서버 구축**
+지역마다의 맛집을 추천해주고 나만의 맛집을 설정할 수 있는 어플입니다.
+식당마다 리뷰를 작성할 수 있으며, 해당 리뷰의 좋아요 수 등 점수를 매겨 오늘의 리뷰를 선정합니다.
 
-*  **SSL 적용**
+## 📚 기술 스택
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-#009639?style=for-the-badge&logo=gradle&logoColor=white">
 
-*  **화면 분석**
-
-*  **ERD 설계**
-
-*  **식당 상세 화면 조회 API**
-
-*  **리뷰 및 댓글 관련 API**
-
-*  **검색 API**
-
-*  **사용자 위치 기반 (위도, 경도) 할인 식당 조회 API**
-
-*  **일반 회원 로그인, 회원가입 API**
-
-*  **소셜 로그인 API**
-
-*  **식당 할인권(잇딜) 구매 API**
 
 ## 1.3. 기술 스택
 * **JAVA**
