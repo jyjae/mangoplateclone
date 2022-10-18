@@ -27,17 +27,25 @@
 
 
 ****
+
 ## 3. ERD 설계
 
 ![image](https://user-images.githubusercontent.com/52684942/196426315-d0c4b26a-d9d7-46f4-b757-ff19aecc969c.png)
 
-### [자세히 보기](https://www.erdcloud.com/d/7j3ZYByztg6JZDkBo)
+
+
+[자세히 보기](https://www.erdcloud.com/d/7j3ZYByztg6JZDkBo)
 
 
 ****
+
 ## 4. API 명세서
 
-### [명세서 보기](https://docs.google.com/spreadsheets/d/1xaY34q7PerXMhUJTKMSedBfxv3fYoQMTurVvsMZGM4I/edit#gid=1034153842)
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/52684942/196428679-c2eb0d95-5ae4-420f-9331-b4f293364c6d.png">
+
+
+
+[명세서 보기](https://docs.google.com/spreadsheets/d/1xaY34q7PerXMhUJTKMSedBfxv3fYoQMTurVvsMZGM4I/edit#gid=1034153842)
 
 
 
